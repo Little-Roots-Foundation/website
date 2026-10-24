@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://littlerootsfoundation.org/sitemap.xml
