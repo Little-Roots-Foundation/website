@@ -11,4 +11,4 @@ Static site for Little Roots Foundation, served by GitHub Pages from the root of
 
 Edit any page in the GitHub web editor and commit. Pages republishes in about a minute.
 
-Rules: no em-dashes; no 501(c)(3) or tax-deductible wording until the IRS determination letter; materials teach skills and are not medical advice.
+Rules: no em-dashes; materials teach skills and are not medical advice; 501(c)(3) wording must match the IRS determination letter (Letter 947, Nov 4, 2026: public charity under 170(b)(1)(A)(vi), exempt from Oct 24, 2026); say "tax-deductible to the extent allowed by law", never promise a specific benefit; no live giving link until Virginia charitable solicitation registration (VDACS) is done.
